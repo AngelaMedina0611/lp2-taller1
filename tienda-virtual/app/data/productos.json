@@ -47,5 +47,12 @@
     "nombre": "Smart Band",
     "precio": 159900,
     "foto": "images/smart-band-xiaomi.jpg"
+  },
+   {
+    "sku": "TEC-008",
+    "marca": "Lenovo",
+    "nombre": "Laptop IdeaPad",
+    "precio": 2499900,
+    "foto": "images/laptop-lenovo.jpg"
   }
 ]
