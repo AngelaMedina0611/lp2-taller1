@@ -40,5 +40,12 @@
     "nombre": "Apple Watch",
     "precio": 1899900,
     "foto": "images/apple-watch.jpg"
+  },
+  {
+    "sku": "TEC-007",
+    "marca": "Xiaomi",
+    "nombre": "Smart Band",
+    "precio": 159900,
+    "foto": "images/smart-band-xiaomi.jpg"
   }
 ]
