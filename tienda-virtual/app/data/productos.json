@@ -12,5 +12,12 @@
     "nombre": "Monitor LED 24 pulgadas",
     "precio": 799900,
     "foto": "images/monitor-samsung.jpg"
+  },
+ {   
+    "sku": "TEC-003",
+    "marca": "HP",
+    "nombre": "Teclado inalámbrico",
+    "precio": 129900,
+    "foto": "images/teclado-hp.jpg"
   }
 ]
