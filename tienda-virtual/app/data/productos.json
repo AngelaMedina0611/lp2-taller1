@@ -19,5 +19,12 @@
     "nombre": "Teclado inalámbrico",
     "precio": 129900,
     "foto": "images/teclado-hp.jpg"
+  },
+  {
+    "sku": "TEC-004",
+    "marca": "Sony",
+    "nombre": "Audífonos inalámbricos WH-CH520",
+    "precio": 249900,
+    "foto": "images/audifonos-sony.jpg"
   }
 ]
