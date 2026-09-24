@@ -26,5 +26,12 @@
     "nombre": "Audífonos inalámbricos WH-CH520",
     "precio": 249900,
     "foto": "images/audifonos-sony.jpg"
+  },
+   {
+    "sku": "TEC-005",
+    "marca": "JBL",
+    "nombre": "Parlante Bluetooth portátil",
+    "precio": 299900,
+    "foto": "images/parlante-jbl.jpg"
   }
 ]
