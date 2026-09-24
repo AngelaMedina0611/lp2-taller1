@@ -33,5 +33,12 @@
     "nombre": "Parlante Bluetooth portátil",
     "precio": 299900,
     "foto": "images/parlante-jbl.jpg"
+  },
+   {
+    "sku": "TEC-006",
+    "marca": "Apple",
+    "nombre": "Apple Watch",
+    "precio": 1899900,
+    "foto": "images/apple-watch.jpg"
   }
 ]
