@@ -54,5 +54,12 @@
     "nombre": "Laptop IdeaPad",
     "precio": 2499900,
     "foto": "images/laptop-lenovo.jpg"
+  },
+  {
+    "sku": "TEC-009",
+    "marca": "Samsung",
+    "nombre": "Tablet Galaxy Tab",
+    "precio": 1199900,
+    "foto": "images/tablet-samsung.jpg"
   }
 ]
